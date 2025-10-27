@@ -24,7 +24,7 @@ Saya seorang engineer teknis dengan 4 tahun pengalaman hibrida, berfokus pada pe
 
 **Keahlian Kunci Lainnya:**
 * **Backend:** REST API Design, PHP Native OOP (Legacy Code)
-* **DevOps & Infrastructure:** VPS Management, Monitoring (Uptime Kuma, Nagios), Bash/Shell Scripting, Network Config (Firewall/IPTables/VPN Concepts)
+* **DevOps & Infrastructure:** VPS Management, Monitoring (Uptime Kuma, Nagios), Bash/Shell Powershell Scripting, Network Config (Firewall/IPTables/VPN Concepts)
 * **Security:** Cloud Security Concepts, Server Hardening Basics, API Security Practices (API Keys, Rate Limiting)
 * **Familiar With:** Python (Flask), MongoDB
 
