@@ -5,14 +5,13 @@
 Saya seorang engineer teknis dengan 4 tahun pengalaman hibrida, berfokus pada pembangunan backend yang kuat (PHP/Laravel, TALL Stack) dan pengelolaan infrastruktur Linux yang andal dan aman (VPS, Nginx, Docker, Monitoring). Saya bersemangat dalam mengotomatisasi proses dan memecahkan masalah kompleks.
 
 🔭 **Saat ini fokus pada:**
-* Menyelesaikan Portofolio Live & API Gateway HA (Proyek D, E, F).
+* Menyelesaikan Portofolio Live & API Gateway HA 
 * Memperdalam keahlian DevOps (Docker, CI/CD GitHub Actions, Testing PEST, Prometheus Stack).
 
 🔗 **Mari Terhubung:**
 * 📧 **Email:** contact@roniramdani.my.id
-* 🌐 **Portfolio Live:** https://roniramdani.my.id *(Pastikan link ini aktif!)*
+* 🌐 **Portfolio Live:** https://roniramdani.my.id 
 * 💼 **LinkedIn:** [Link ke Profil LinkedIn Anda]
-* <0xF0><0x9F><0xAA><0x84> **CV (PDF):** [Link Langsung ke File PDF CV Anda di Proyek F] *(Opsional tapi bagus)*
 
 ---
 
